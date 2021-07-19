@@ -1,0 +1,23 @@
+.postCreate-title {
+    background: #1976d2;
+    color: #ffffff;
+}
+
+.postCreate-back {
+    background-color: #74c365 !important;
+}
+
+.postCreate-input {
+    height: 70px;
+}
+
+.postCreate-action {
+    margin: 0px 7px 7px 7px;
+}
+
+.postCreate-error {
+    color: red;
+    text-align: center;
+    font-size: 20px;
+    padding-bottom: 10px;
+}

@@ -1,0 +1,23 @@
+.postEdit-title {
+    background: #1976d2;
+    color: #ffffff;
+}
+
+.postEdit-back {
+    background-color: #74c365 !important;
+}
+
+.postEdit-input {
+    height: 70px;
+}
+
+.postEdit-action {
+    margin: 0px 7px 7px 7px;
+}
+
+.postEdit-error {
+    color: red;
+    text-align: center;
+    font-size: 20px;
+    padding-bottom: 10px;
+}

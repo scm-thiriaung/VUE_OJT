@@ -1,0 +1,23 @@
+.userCreate-title {
+    background: #1976d2;
+    color: #ffffff;
+}
+
+.userCreate-back {
+    background-color: #74c365 !important;
+}
+
+.userCreate-input {
+    height: 70px;
+}
+
+.userCreate-action {
+    margin: 0px 7px 7px 7px;
+}
+
+.userCreate-error {
+    color: red;
+    text-align: center;
+    font-size: 20px;
+    padding-bottom: 10px;
+}

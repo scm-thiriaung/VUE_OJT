@@ -1,0 +1,23 @@
+.userEdit-title {
+    background: #1976d2;
+    color: #ffffff;
+}
+
+.userEdit-back {
+    background-color: #74c365 !important;
+}
+
+.userEdit-input {
+    height: 70px;
+}
+
+.userEdit-action {
+    margin: 0px 7px 7px 7px;
+}
+
+.userEdit-error {
+    color: red;
+    text-align: center;
+    font-size: 20px;
+    padding-bottom: 10px;
+}
